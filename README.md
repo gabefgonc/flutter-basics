@@ -1,3 +1,5 @@
-# flutter_basics
+# Flutter Basics
 
-A new Flutter project.
+Project to practice flutter
+
+> Studying with the book Flutter Complete Reference from Alberto Miola
